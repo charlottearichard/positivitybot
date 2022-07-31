@@ -1,0 +1,6 @@
+-- DROP DATABASE
+DROP DATABASE IF EXISTS positivitybot;
+
+-- CREATE DATABASE
+CREATE DATABASE positivitybot;
+
